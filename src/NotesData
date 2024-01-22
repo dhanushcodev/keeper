@@ -1,0 +1,20 @@
+var notes = [
+
+    {
+       title: "This is the Title",
+       content: "This is the content of the Note"
+
+    },
+    {   
+        title: "This is the Title",
+        content: "This is the content of the Note"
+    },
+    {
+        title: "This is the Title",
+       content: "This is the content of the Note"
+    }
+
+
+];
+
+export default notes;
